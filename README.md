@@ -8,7 +8,7 @@ dtbs.toggle_warnings(True) # set to true on default, if you just want to toggle 
 
 dtbs.create_table("USERS", {
   "id": "TEXT",
-  "name": "TEXT,
+  "name": "TEXT",
   "balance": "INTEGER"
 })
 
